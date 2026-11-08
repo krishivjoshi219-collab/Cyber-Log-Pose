@@ -1,0 +1,8 @@
+*.lck
+*-backups/
+.history/
+_restore_backup_*/
+*.bak-before-*
+*-unsaved-export-*.kicad_prl
+__pycache__/
+.DS_Store
